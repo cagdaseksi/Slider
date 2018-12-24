@@ -1,5 +1,5 @@
 # Slider
-How To Use A Slider In xCode 9 (Swift 4.2)
+How To Use A Slider In xCode 10, with swift.
 
 ![swift slider](https://i.ibb.co/r08WTXT/slider.png)
 
